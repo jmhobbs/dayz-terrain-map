@@ -17,7 +17,7 @@ func main() {
 		height    = flag.Int("height", 16, "How many tiles high")
 		tileSize  = flag.Int("size", 512, "Size of tiles")
 		overlap   = flag.Int("overlap", 64, "Overlap size")
-		output = flag.String("output", "map.png", "Output file name"
+		output    = flag.String("output", "map.png", "Output file name")
 	)
 	flag.Parse()
 
