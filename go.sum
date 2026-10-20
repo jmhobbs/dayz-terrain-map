@@ -1,0 +1,6 @@
+github.com/anchore/go-lzo v0.1.1 h1:IwL/fvkdtlIrYIXck6WxZ3nb8WjjHziYYmGxlooyOnM=
+github.com/anchore/go-lzo v0.1.1/go.mod h1:3kLx0bve2oN1iDwgM1U5zGku1Tfbdb0No5qp1eL1fIk=
+github.com/jmhobbs/go-paa v0.0.8 h1:ofop+L23er1USR4uyS/zPbTgb1m5TmLjc3SpgKczf9o=
+github.com/jmhobbs/go-paa v0.0.8/go.mod h1:nyE4IrlBjiTED2aP+4JeV0QFZeMYthPZ/u+KL8aZw80=
+github.com/mauserzjeh/dxt v1.0.0 h1:5Qb1aqvdYGAKzQuZQ3lJGKzUje2WswXNvaZkWd0NqG0=
+github.com/mauserzjeh/dxt v1.0.0/go.mod h1:Ulty8+/KXIxoS/sOspJ2z/aPdsXnDH+sCWdZHQSD51k=
